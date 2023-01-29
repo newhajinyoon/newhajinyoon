@@ -1,6 +1,5 @@
 <h3 align="center">Hello World!</h3>
 
-- ⚡ 좋아하는것: **와! 샌즈!**
 
 <h3 align="left">Social:</h3>
 <p align="left">
