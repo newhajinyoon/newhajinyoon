@@ -1,6 +1,10 @@
 <h1 align="center">안녕하세요 👋 진윤입니다.</h1>
 <h3 align="center">우리말・제주어・한글패치를 사랑하는 개발자 🇰🇷</h3>
-
+<p align="center">
+  <a href="https://im.jinyoon.kr/donate">
+    <img src="https://img.shields.io/badge/🧃_초코에몽_후원하기-FF7E36?style=for-the-badge" alt="후원하기 버튼" />
+  </a>
+</p>
 ---
 
 ### 📫 연락 방법
