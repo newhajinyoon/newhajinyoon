@@ -16,6 +16,7 @@
 | 프로젝트 | 설명 | 링크 |
 |:---|:---|:---:|
 | 🐈 **나오렴, 고양아** | **[공식 번역]** 스팀 게임 공식 한국어 번역 | [🔗 스팀](https://store.steampowered.com/app/3930300/Come_out_cat) |
+| 🐈 **Openfront.io** | **[공식 번역]** io 게임 공식 한국어 번역 | [🔗 io](https://openfront.io/) |
 | ⬛ **델타룬 (DeltaruneKR)** | **[한글패치]** 델타룬 한국어 번역 프로젝트 | [🔗 GitHub](https://github.com/newhajinyoon/deltarunekr) |
 | 🐙 **GitHub 한국어화** | **[확장앱]** GitHub 웹 인터페이스 한국어화 패치 | [🔗 GitHub](https://github.com/newhajinyoon/github-korean) |
 
