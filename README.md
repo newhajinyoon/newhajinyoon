@@ -15,7 +15,7 @@
 **[공식]** 스팀 게임 한국어 번역 (1인)
 
 **[Openfront.io](https://openfront.io/)**<br>
-**[공식]** io 게임 한국어 번역 (1인)
+**[공식]** 스팀 게임 게임 한국어 번역 (1인)
 
 **[DeltaruneKR](https://github.com/newhajinyoon/deltarunekr)**<br>
 **[비공식]** 델타룬 한국어 번역 프로젝트 (Dtkrpatchteam)
