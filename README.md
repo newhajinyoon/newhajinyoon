@@ -4,8 +4,12 @@
 
 `진윤` · `뉴하진윤` · `jinyoon` · `newhajinyoon` · `윤하진`
 
-[초코에몽 후원하기](https://im.jinyoon.kr/donate) ｜ [YouTube](https://www.youtube.com/@asdfjinyoon) ｜ [Discord](https://discord.gg/URbAPkxJuN) ｜ [GitHub](https://github.com/newhajinyoon)
+연락처: [Discord](https://discord.gg/URbAPkxJuN) | newhajinyoon@gmail.com
+
+
+[초코에몽 후원하기](https://im.jinyoon.kr/donate) ｜ [YouTube](https://www.youtube.com/@asdfjinyoon) ｜ [GitHub](https://github.com/newhajinyoon)<br>
 <br><br>![Visitor Badge](https://komarev.com/ghpvc/?username=newhajinyoon&label=Visitors&color=blue&style=flat-square)
+
 
 <br>
 
