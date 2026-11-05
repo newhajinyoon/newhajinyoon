@@ -21,8 +21,11 @@
 **[Openfront.io](https://openfront.io/)**<br>
 **[공식]** 스팀 게임 게임 한국어 번역 (1인)
 
-**[DeltaruneKR](https://github.com/newhajinyoon/deltarunekr)**<br>
+[**Deltarune**](https://github.com/newhajinyoon/deltarunekr) &nbsp;<img src="https://img.shields.io/github/downloads/newhajinyoon/deltarunekr/total?style=flat-square&label=Downloads&color=blue" align="center"><br>
 **[비공식]** 델타룬 한국어 번역 프로젝트 (Dtkrpatchteam)
+
+**[Undertale Yellow](https://gamejolt.com/games/utykr/975442)**<br>
+**[기여]** 1.3.1 한국어 패치 업데이트 기술 지원
 
 <br>
 
